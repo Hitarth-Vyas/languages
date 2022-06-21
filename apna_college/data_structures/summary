@@ -1,0 +1,3 @@
+space complexity of an algorithm qualifies the amount of time taken by a program to run as function of length of the input. It is directly proportional to the largest memory your program aquires at any instacnce during run time.
+
+array is list of variable of similar types.
