@@ -1,3 +1,16 @@
 space complexity of an algorithm qualifies the amount of time taken by a program to run as function of length of the input. It is directly proportional to the largest memory your program aquires at any instacnce during run time.
 
 array is list of variable of similar types.
+
+continous part of array is subarray.
+
+subsequence is derived from an array selectinf zero or more elements, without changing the order of remaining elements.
+
+every subarray is subset of subsequence not vice versa.
+
+In time limit given: 1 sec = 10^8 operations
+if O(n) = n^2: total n^2 operations for size n.
+if time limit is 20 sec then -> 2*10^9 operations.
+so if O(n) = n*n then n*2 < 2*10^9
+
+mem limit given: size < memory limit
