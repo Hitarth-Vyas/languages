@@ -13,4 +13,6 @@ if O(n) = n^2: total n^2 operations for size n.
 if time limit is 20 sec then -> 2*10^9 operations.
 so if O(n) = n*n then n*2 < 2*10^9
 
-mem limit given: size < memory limit
+mem limit given: size < memory limit.
+
+arr[n][m]; n -> row no, m -> col no
