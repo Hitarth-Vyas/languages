@@ -22,3 +22,5 @@ as we call functions it gets pushed in stack (memory stack) and at bottom there 
 
 Heap -> dynamic memory allocation and de-allocation
 
+string -> no need to know size beforehand, concatenation etc function easy to perform, terminate with special char '\0'
+
