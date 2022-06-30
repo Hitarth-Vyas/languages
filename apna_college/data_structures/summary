@@ -16,3 +16,9 @@ so if O(n) = n*n then n*2 < 2*10^9
 mem limit given: size < memory limit.
 
 arr[n][m]; n -> row no, m -> col no
+
+
+as we call functions it gets pushed in stack (memory stack) and at bottom there would be main function and with return function is popped;
+
+Heap -> dynamic memory allocation and de-allocation
+
