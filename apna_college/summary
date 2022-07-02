@@ -24,3 +24,4 @@ Heap -> dynamic memory allocation and de-allocation
 
 string -> no need to know size beforehand, concatenation etc function easy to perform, terminate with special char '\0'
 
+& on n and n-1 will be 0 if oand only if n is power of two.
